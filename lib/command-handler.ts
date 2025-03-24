@@ -805,7 +805,6 @@ export async function executeCommand(command: string, customerAccessToken?: stri
             "  help                          - Mostrar esta ayuda",
             "",
             "======================================================",
-            "NOTA: También puedes acceder directamente a tu cuenta en https://clicafe.com/account",
         ]
     }
 

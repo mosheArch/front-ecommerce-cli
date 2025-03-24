@@ -77,9 +77,9 @@ export default function Home() {
       { text: `Last login: ${formattedDate} on ttys000`, isCommand: false, isAuthenticated: false },
       { text: `shop@clicafe ~ % `, isCommand: false, isAuthenticated: false },
       { text: "", isCommand: false, isAuthenticated: false },
-      { text: "🛍️ Terminal Coffee v1.0.0", isCommand: false, isAuthenticated: false },
+      { text: "🕋Terminal Coffee v1.0.0", isCommand: false, isAuthenticated: false },
       {
-        text: "Conectado a: " + process.env.NEXT_PUBLIC_SHOPIFY_STORE_DOMAIN,
+        text: "👨🏻‍💻Conectado a: " + process.env.NEXT_PUBLIC_SHOPIFY_STORE_DOMAIN,
         isCommand: false,
         isAuthenticated: false,
       },
